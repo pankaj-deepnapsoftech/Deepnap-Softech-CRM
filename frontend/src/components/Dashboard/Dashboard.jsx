@@ -505,7 +505,7 @@ const Dashboard = () => {
             </div></Link>
 
             <Link to='proforma-invoices'><div
-              style={{ boxShadow: "0 0 20px 3px #96beee26" }}
+              style={{ boxShadow: "0 0 20px 3px  #96beee26" }}
               className="bg-white rounded-md text-center py-7"
             >
               <h1 className="flex items-center justify-center gap-2 text-xl border-b font-bold pb-4 text-[#22075e]">
